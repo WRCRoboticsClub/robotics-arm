@@ -1,0 +1,48 @@
+RoBOTICS Arm
+Abstract:
+The robotic arm is a moblie arduino based bot that is designed to imitate human arm. It has four degree of freedom .
+It can presisely pick and drop things ,build stack etc.
+
+COMPONNENTS REQUIRED:
+EStimated electrical component of Robotics Arm:
+1) arduino uno                
+2)cnc shield                      
+3) A4988 Stepper Motor driver 
+3) S3003 Servo Motor        
+4)Nema stepper motor          
+5)Gearboxmotor               
+6)L293D DC Motor Driver Shield     
+7)bluetooth module          
+9)jumper wire  
+10)battery
+
+CONNECTION:
+        For base:
+        arduino uno will be placed in basement with arduino motor shield to control 4 motors of the basement.base arduino will be either connected with i2p protocol or bluetooth module which is as feasiable as possible.
+        
+        For arm:
+        Arduino with cnc shield will be connected to four stepper motor and (1 or 2) servo motor.
+        first stepper motor will be linked to base rotation in xy plane in 360 degrees.
+        Second stepper motor will be linked to base to arm for rotation in yz plane in 180 degrees.
+        Third stepper motor will act as elbow rotation in the plane of base arm in 180 degrees.
+        fourth stepper motor will be responsible for rotaion of wrist in 360 degrees.
+        At last servo motor will be placed as claws to pick and place items.
+
+        Four A4988 Stepper Motor driver will be connected to cnc shield to drive four stepper motor.
+
+        bluetooth module may be connected for coordinates and for data receiving in future versions.
+
+        All the pins will be connected through jumper wire.A large battery of 12 v will be required to power the project.
+
+About cnc shield:
+        The CNC/Stepper Motor Shield for Arduino is a  shield which uses opensource firmware on arduino to control 4 stepper motors using 4 pieces of A4988 Stepper Motor driver breakout board. It can be applicable in various fields like :- Robotics,  linear motion project, CNC routers, laser cutters and many more.
+    
+About A4988 Stepper Motor driver:
+    The A4988 Stepper Motor Driver Carrier is a breakout board for Allegro’s A4988 microstepping bipolar stepper motor driver that has the features of adjustable current limiting, over current and over temperature protection. It operates from 8 V to 35 V. It can be applicable for various DIY projects.
+
+
+
+    REFERENCE:
+    cnc shield: http://himalayansolution.com/storage/downloads/urkYjbpsGiOGoj7S8diZKR6ZEort1KSQKut2Yxxr.pdf
+    A4988 Stepper Motor driver: http://himalayansolution.com/storage/downloads/flIxuvzblrR1ucXNoUgDv4GE6kmcJsPffXuenlTY.pdf
+
