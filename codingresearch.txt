@@ -1,0 +1,19 @@
+# ROBOTIC ARM
+
+# RESEARCH ON CODING 
+ 
+# REQUIRED SOFTWARE :
+
+ 1. Python
+ 2. Pyserial
+ 2. Arduino IDE
+ 3. Open cv(For image processing)
+
+- BASIC WORKLFLOW
+
+> The code for arduino pin inputs will be written in arduino IDE.
+> The code for basic movements and rotation of servo motors in robotic arm will be written in python.
+> Install Pyserial for serial communication between arduino and python.
+> OpenCV is a Python open-source library for computer vision in object recognization which will be used later on the program code.
+
+'Code will be uploaded soon.'
