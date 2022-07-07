@@ -10,15 +10,14 @@ EStimated electrical component of Robotics Arm:
 3) A4988 Stepper Motor driver 
 3) S3003 Servo Motor        
 4)Nema stepper motor          
-5)Gearboxmotor               
-6)L293D DC Motor Driver Shield     
-7)bluetooth module          
-9)jumper wire  
-10)battery
+            
+ 
+        
+5)jumper wire  
+6)battery
 
 CONNECTION:
-        For base:
-        arduino uno will be placed in basement with arduino motor shield to control 4 motors of the basement.base arduino will be either connected with i2p protocol or bluetooth module which is as feasiable as possible.
+      
         
         For arm:
         Arduino with cnc shield will be connected to four stepper motor and (1 or 2) servo motor.
