@@ -12,8 +12,24 @@
 - BASIC WORKLFLOW
 
 > The code for arduino pin inputs will be written in arduino IDE.
+> Install python on your computer.
+> Install pyserial and to check if pyserial has been properly installed or not , open python and type -
+    ----- import serial
 > The code for basic movements and rotation of servo motors in robotic arm will be written in python.
 > Install Pyserial for serial communication between arduino and python.
 > OpenCV is a Python open-source library for computer vision in object recognization which will be used later on the program code.
 
-'Code will be uploaded soon.'
+
+- Software installation links
+
+python - https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe
+pyserial - To install pyserial, visit https://pypi.python.org/pypi/pyserial/2.7 or open CMD and type 
+           pip install pyserial
+arduino IDE - https://www.arduino.cc/en/software/OldSoftwareReleases
+open cv- You can visit https://pypi.org/project/opencv-python/ 
+
+-Reference links
+
+https://howtomechatronics.com/projects/scara-robot-how-to-build-your-own-arduino-based-robot/
+https://www.youtube.com/watch?v=GRBQRneYT0s
+
