@@ -4,8 +4,9 @@ EStimated electrical component of Robotics Arm:
 3) A4988 Stepper Motor driver x4    RS210*4=840
 3) S3003 Servo Motor          x2    Rs600*2=1200
 4)Nema stepper motor          x4    RS1300*4=5200
-
-
+5)base for arm(already available in robotics)
+6)motor shield               *1
+7)bluetooth module            *1
 
 9)jumper wire                 
                                 total:RS 10265
