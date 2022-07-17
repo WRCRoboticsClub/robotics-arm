@@ -6,4 +6,11 @@ All the materials used and taken from Robotics club are listed here:
 5. Servo Motor (x1)
 6. Arduino (From Sachin Giri)
 7. Arduino Cable (From Sunil Shah)
-8. 4 channel relay (x2)
+8. 4 channel relay (x2) (Will not work because we will need atleaset 2 relays to control a stepper motor to move forward and backward, so that will be a lot of relays to connect within a circuit)
+9. Arduino Shield (x2)
+
+
+To be consider in near future:
+1. Replace 2 arduino with single microprocessor
+2. Convert whole arm to 3d printed
+
