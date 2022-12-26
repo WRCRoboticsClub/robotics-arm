@@ -1,6 +1,6 @@
-Elelctrical component required    quantity
-1) MG996R Servo Motor  			3
-2) mini servo				3
-3) Bluetooth module			1
-4) Arduino					1
-5) 5v supply(mobile charger)		1
+Elelctrical component required    quantity	market price per piece
+1) MG996R Servo Motor  			3		800
+2) mini servo				3		350
+3) Bluetooth module			1    		already available
+4) Arduino					1    		already available
+5) 5v supply(mobile charger)		1    		already available
