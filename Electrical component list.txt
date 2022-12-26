@@ -1,6 +1,6 @@
 Elelctrical component required    quantity
 1) MG996R Servo Motor  			3
-2) mini servo				2
+2) mini servo				3
 3) Bluetooth module			1
 4) Arduino					1
 5) 5v supply(mobile charger)		1
